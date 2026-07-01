@@ -22,7 +22,7 @@ To avoid copyright issues, this repository does not include original proprietary
 
 Open the `Makefile` and locate the following line. Change the filename to match your original/target firmware file name:
 
-```makefile
+makefile
 # Change this variable to match your specific original firmware filename
 PATCHED = "QI\#FC\#1C.bin"
 
